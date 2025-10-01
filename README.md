@@ -399,7 +399,7 @@ If you use this tool in your research, please cite:
 @software{paul2024flop_calculator,
   author = {Debjit Paul},
   title = {FLOP Calculator: A Tool for Estimating Computational Requirements of Large Language Models},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/debjitpaul/flop_calculator}
 }
 ```
@@ -424,12 +424,6 @@ This tool builds upon excellent prior work:
 - **Adam Casson** for comprehensive Transformer FLOP analysis
 - **Pratish Raj** for practical guides to FLOP counting
 - **OpenAI, DeepMind, and Google** for foundational scaling research
-
-Special thanks to the open-source community for feedback and contributions.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🐛 Issues and Support
 
@@ -457,13 +451,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 - [ ] Full documentation
 - [ ] Community plugins support
 
-## 💬 Community
-
-Join the discussion:
-- Twitter: [@debjitpaul](https://twitter.com/debjitpaul)
-- Discord: [LLM Efficiency Community](https://discord.gg/llm-efficiency)
-
----
 
 **Made with ❤️ for the ML community**
 
