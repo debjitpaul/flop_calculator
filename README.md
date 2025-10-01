@@ -398,7 +398,7 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{paul2024flop_calculator,
   author = {Debjit Paul},
-  title = {FLOP Calculator: A Tool for Estimating Computational Requirements of Large Language Models},
+  title = {Understanding FLOPs, MFU, and Computational Efficiency in LLM Training: From Dense Transformers to MoE Architectures},
   year = {2025},
   url = {https://github.com/debjitpaul/flop_calculator}
 }
